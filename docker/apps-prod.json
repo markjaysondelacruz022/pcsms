@@ -1,0 +1,14 @@
+[
+    {
+        "url": "https://github.com/frappe/payments.git",
+        "branch": "version-14"
+    },
+    {
+        "url": "https://github.com/frappe/erpnext.git",
+        "branch": "version-14"
+    },
+    {
+        "url": "http://sysad.xei:GC8ct5oz9YrbwU5Xu2Xv@ec2-52-32-195-219.us-west-2.compute.amazonaws.com/jamie.castro/pcsms.git",
+        "branch": "main"
+    }
+]

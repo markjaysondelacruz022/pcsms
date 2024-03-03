@@ -1,0 +1,27 @@
+[
+ {
+  "amend": 0,
+  "cancel": 0,
+  "create": 1,
+  "delete": 1,
+  "docstatus": 0,
+  "doctype": "Custom DocPerm",
+  "email": 0,
+  "export": 1,
+  "if_owner": 0,
+  "import": 0,
+  "modified": "2023-11-08 16:00:54.106388",
+  "name": "b914c8c77f",
+  "parent": "Scholar Application",
+  "permlevel": 0,
+  "print": 0,
+  "read": 1,
+  "report": 1,
+  "role": "Scholar Admin",
+  "select": 1,
+  "set_user_permissions": 0,
+  "share": 1,
+  "submit": 0,
+  "write": 1
+ }
+]
