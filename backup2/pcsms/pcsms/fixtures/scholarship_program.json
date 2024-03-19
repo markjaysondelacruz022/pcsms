@@ -1,0 +1,14 @@
+[
+ {
+  "academic_level_type": "1",
+  "active": 1,
+  "docstatus": 0,
+  "doctype": "Scholarship Program",
+  "end_date": "2024-03-15",
+  "modified": "2024-03-15 01:34:40.041483",
+  "name": 1,
+  "program_name": "Test Program Name",
+  "scholarship_type": "1",
+  "start_date": "2024-03-11"
+ }
+]

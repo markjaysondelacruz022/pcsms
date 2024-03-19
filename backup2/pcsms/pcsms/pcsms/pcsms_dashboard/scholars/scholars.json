@@ -1,0 +1,21 @@
+{
+ "cards": [],
+ "charts": [
+  {
+   "chart": "Scholar Applications By Status-1",
+   "width": "Half"
+  }
+ ],
+ "creation": "2023-11-10 11:18:27.864742",
+ "dashboard_name": "Scholars",
+ "docstatus": 0,
+ "doctype": "Dashboard",
+ "idx": 0,
+ "is_default": 0,
+ "is_standard": 1,
+ "modified": "2023-11-10 14:12:35.723166",
+ "modified_by": "Administrator",
+ "module": "pcsms",
+ "name": "Scholars",
+ "owner": "Administrator"
+}

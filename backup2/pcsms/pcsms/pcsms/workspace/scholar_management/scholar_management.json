@@ -1,0 +1,116 @@
+{
+ "charts": [
+  {
+   "chart_name": "Scholar Applications By Date",
+   "label": "Scholar Applications By Date"
+  },
+  {
+   "chart_name": "Scholar Applications By Status",
+   "label": "Scholar Applications By Status"
+  }
+ ],
+ "content": "[{\"id\":\"2pdKkhkHak\",\"type\":\"header\",\"data\":{\"text\":\"<span class=\\\"h4\\\">Scholar Management</span>\",\"col\":12}},{\"id\":\"LWBdFA6YaO\",\"type\":\"chart\",\"data\":{\"chart_name\":\"Scholar Applications By Date\",\"col\":12}},{\"id\":\"LtQGALskoJ\",\"type\":\"chart\",\"data\":{\"chart_name\":\"Scholar Applications By Status\",\"col\":12}},{\"id\":\"2kmQUCEhGI\",\"type\":\"card\",\"data\":{\"card_name\":\"Scholars\",\"col\":4}}]",
+ "creation": "2023-11-08 15:03:56.819875",
+ "custom_blocks": [],
+ "docstatus": 0,
+ "doctype": "Workspace",
+ "for_user": "",
+ "hide_custom": 0,
+ "icon": "users",
+ "idx": 0,
+ "is_hidden": 0,
+ "label": "Scholar Management",
+ "links": [
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Scholars",
+   "link_count": 1,
+   "onboard": 0,
+   "type": "Card Break"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Applicant",
+   "link_count": 0,
+   "link_to": "Applicant",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Scholar Applications List",
+   "link_count": 0,
+   "link_to": "Scholar Application",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Scholarship Program",
+   "link_count": 0,
+   "link_to": "Scholarship Program",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Type of Application",
+   "link_count": 0,
+   "link_to": "Type of Application",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Academic Level",
+   "link_count": 0,
+   "link_to": "Academic Level",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Academic Level Type",
+   "link_count": 0,
+   "link_to": "Academic Level Type",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Course",
+   "link_count": 0,
+   "link_to": "Course",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  }
+ ],
+ "modified": "2024-03-20 02:33:51.925561",
+ "modified_by": "Administrator",
+ "module": "pcsms",
+ "name": "Scholar Management",
+ "number_cards": [],
+ "owner": "Administrator",
+ "parent_page": "",
+ "public": 1,
+ "quick_lists": [],
+ "roles": [],
+ "sequence_id": 33.0,
+ "shortcuts": [],
+ "title": "Scholar Management"
+}

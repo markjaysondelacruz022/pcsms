@@ -1,0 +1,54 @@
+{
+ "actions": [],
+ "autoname": "autoincrement",
+ "creation": "2024-03-17 22:12:33.997744",
+ "default_view": "List",
+ "doctype": "DocType",
+ "editable_grid": 1,
+ "engine": "InnoDB",
+ "field_order": [
+  "requirement_name",
+  "requirement_description"
+ ],
+ "fields": [
+  {
+   "fieldname": "requirement_name",
+   "fieldtype": "Data",
+   "in_list_view": 1,
+   "label": "Requirement Name"
+  },
+  {
+   "fieldname": "requirement_description",
+   "fieldtype": "Long Text",
+   "in_list_view": 1,
+   "label": "Requirement Description"
+  }
+ ],
+ "index_web_pages_for_search": 1,
+ "links": [],
+ "modified": "2024-03-17 22:17:02.518956",
+ "modified_by": "Administrator",
+ "module": "pcsms",
+ "name": "Scholarship Requirement Item",
+ "naming_rule": "Autoincrement",
+ "owner": "Administrator",
+ "permissions": [
+  {
+   "create": 1,
+   "delete": 1,
+   "email": 1,
+   "export": 1,
+   "print": 1,
+   "read": 1,
+   "report": 1,
+   "role": "System Manager",
+   "share": 1,
+   "write": 1
+  }
+ ],
+ "show_title_field_in_link": 1,
+ "sort_field": "modified",
+ "sort_order": "DESC",
+ "states": [],
+ "title_field": "requirement_name"
+}

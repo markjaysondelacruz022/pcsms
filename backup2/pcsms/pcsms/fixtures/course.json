@@ -1,0 +1,52 @@
+[
+ {
+  "academic_level_type": "1",
+  "active": 1,
+  "course_description": " Accountancy, Business and Management",
+  "course_name": "ABM",
+  "docstatus": 0,
+  "doctype": "Course",
+  "modified": "2024-03-15 10:39:32.599086",
+  "name": 1
+ },
+ {
+  "academic_level_type": "1",
+  "active": 1,
+  "course_description": "Science, Technology, Engineering, and Mathematics",
+  "course_name": "STEM",
+  "docstatus": 0,
+  "doctype": "Course",
+  "modified": "2024-03-15 10:39:41.024973",
+  "name": 2
+ },
+ {
+  "academic_level_type": "1",
+  "active": 1,
+  "course_description": "Humanities and Social Science",
+  "course_name": "HUMSS",
+  "docstatus": 0,
+  "doctype": "Course",
+  "modified": "2024-03-15 10:39:53.970232",
+  "name": 3
+ },
+ {
+  "academic_level_type": "1",
+  "active": 1,
+  "course_description": "General Academic Strand",
+  "course_name": "GAS",
+  "docstatus": 0,
+  "doctype": "Course",
+  "modified": "2024-03-15 10:39:47.643576",
+  "name": 4
+ },
+ {
+  "academic_level_type": "4",
+  "active": 1,
+  "course_description": "Bachelor of Science and Infomation Technology",
+  "course_name": "BSIT",
+  "docstatus": 0,
+  "doctype": "Course",
+  "modified": "2024-03-15 10:40:55.041215",
+  "name": 5
+ }
+]

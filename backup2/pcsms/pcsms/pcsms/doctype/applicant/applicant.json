@@ -1,0 +1,159 @@
+{
+ "actions": [],
+ "autoname": "autoincrement",
+ "creation": "2024-03-20 02:22:49.963228",
+ "default_view": "List",
+ "doctype": "DocType",
+ "editable_grid": 1,
+ "engine": "InnoDB",
+ "field_order": [
+  "applicants_personal_information",
+  "section_break_cuwcz",
+  "last_name",
+  "first_name",
+  "middle_name",
+  "column_break_syfbd",
+  "gender",
+  "date_of_birth",
+  "mobile_number",
+  "column_break_ncgvb",
+  "place_of_birth",
+  "civil_status",
+  "email_address",
+  "column_break_bhry4",
+  "religion",
+  "landline_number",
+  "enable_flag",
+  "change_pw_flag"
+ ],
+ "fields": [
+  {
+   "fieldname": "applicants_personal_information",
+   "fieldtype": "Heading",
+   "label": "Applicant's Personal Information"
+  },
+  {
+   "fieldname": "section_break_cuwcz",
+   "fieldtype": "Section Break"
+  },
+  {
+   "fieldname": "last_name",
+   "fieldtype": "Data",
+   "in_list_view": 1,
+   "label": "Last Name",
+   "reqd": 1
+  },
+  {
+   "fieldname": "first_name",
+   "fieldtype": "Data",
+   "in_list_view": 1,
+   "label": "First Name",
+   "reqd": 1
+  },
+  {
+   "fieldname": "middle_name",
+   "fieldtype": "Data",
+   "label": "Middle Name"
+  },
+  {
+   "fieldname": "column_break_syfbd",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "gender",
+   "fieldtype": "Select",
+   "label": "Gender",
+   "options": "\nMale\nFemale"
+  },
+  {
+   "fieldname": "date_of_birth",
+   "fieldtype": "Date",
+   "in_list_view": 1,
+   "label": "Date of Birth",
+   "reqd": 1
+  },
+  {
+   "fieldname": "mobile_number",
+   "fieldtype": "Data",
+   "in_list_view": 1,
+   "label": "Mobile Number",
+   "reqd": 1,
+   "unique": 1
+  },
+  {
+   "fieldname": "column_break_ncgvb",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "place_of_birth",
+   "fieldtype": "Data",
+   "label": "Place of Birth"
+  },
+  {
+   "fieldname": "civil_status",
+   "fieldtype": "Select",
+   "label": "Civil Status",
+   "options": "\nSingle\nMarried\nWidow"
+  },
+  {
+   "fieldname": "email_address",
+   "fieldtype": "Data",
+   "label": "Email Address",
+   "reqd": 1,
+   "unique": 1
+  },
+  {
+   "fieldname": "column_break_bhry4",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "religion",
+   "fieldtype": "Data",
+   "label": "Religion"
+  },
+  {
+   "fieldname": "landline_number",
+   "fieldtype": "Data",
+   "label": "Landline Number"
+  },
+  {
+   "default": "0",
+   "fieldname": "enable_flag",
+   "fieldtype": "Check",
+   "hidden": 1,
+   "label": "Enable Flag"
+  },
+  {
+   "default": "0",
+   "fieldname": "change_pw_flag",
+   "fieldtype": "Check",
+   "hidden": 1,
+   "label": "Change Password Flag"
+  }
+ ],
+ "index_web_pages_for_search": 1,
+ "links": [],
+ "modified": "2024-03-20 02:36:10.372335",
+ "modified_by": "Administrator",
+ "module": "pcsms",
+ "name": "Applicant",
+ "naming_rule": "Autoincrement",
+ "owner": "Administrator",
+ "permissions": [
+  {
+   "create": 1,
+   "delete": 1,
+   "email": 1,
+   "export": 1,
+   "print": 1,
+   "read": 1,
+   "report": 1,
+   "role": "System Manager",
+   "share": 1,
+   "write": 1
+  }
+ ],
+ "sort_field": "modified",
+ "sort_order": "DESC",
+ "states": []
+}

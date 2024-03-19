@@ -1,0 +1,146 @@
+[
+ {
+  "academic_level": "Grade 1",
+  "academic_level_type": "3",
+  "active": 0,
+  "docstatus": 0,
+  "doctype": "Academic Level",
+  "modified": "2024-03-15 07:58:18.278705",
+  "name": 1
+ },
+ {
+  "academic_level": "Grade 2",
+  "academic_level_type": "3",
+  "active": 0,
+  "docstatus": 0,
+  "doctype": "Academic Level",
+  "modified": "2024-03-15 07:58:18.289516",
+  "name": 2
+ },
+ {
+  "academic_level": "Grade 3",
+  "academic_level_type": "3",
+  "active": 1,
+  "docstatus": 0,
+  "doctype": "Academic Level",
+  "modified": "2024-03-15 07:58:18.298901",
+  "name": 3
+ },
+ {
+  "academic_level": "Grade 4",
+  "academic_level_type": "3",
+  "active": 0,
+  "docstatus": 0,
+  "doctype": "Academic Level",
+  "modified": "2024-03-15 07:58:18.310379",
+  "name": 4
+ },
+ {
+  "academic_level": "Grade 5",
+  "academic_level_type": "3",
+  "active": 0,
+  "docstatus": 0,
+  "doctype": "Academic Level",
+  "modified": "2024-03-15 07:58:18.319387",
+  "name": 5
+ },
+ {
+  "academic_level": "Grade 6",
+  "academic_level_type": "3",
+  "active": 1,
+  "docstatus": 0,
+  "doctype": "Academic Level",
+  "modified": "2024-03-15 07:58:18.330081",
+  "name": 6
+ },
+ {
+  "academic_level": "Grade 7",
+  "academic_level_type": "2",
+  "active": 0,
+  "docstatus": 0,
+  "doctype": "Academic Level",
+  "modified": "2024-03-15 07:58:18.338914",
+  "name": 7
+ },
+ {
+  "academic_level": "Grade 8",
+  "academic_level_type": "2",
+  "active": 1,
+  "docstatus": 0,
+  "doctype": "Academic Level",
+  "modified": "2024-03-15 07:58:18.347282",
+  "name": 8
+ },
+ {
+  "academic_level": "Grade 9",
+  "academic_level_type": "2",
+  "active": 1,
+  "docstatus": 0,
+  "doctype": "Academic Level",
+  "modified": "2024-03-15 07:58:18.356505",
+  "name": 9
+ },
+ {
+  "academic_level": "Grade 10",
+  "academic_level_type": "2",
+  "active": 1,
+  "docstatus": 0,
+  "doctype": "Academic Level",
+  "modified": "2024-03-15 07:58:18.365106",
+  "name": 10
+ },
+ {
+  "academic_level": "Grade 11",
+  "academic_level_type": "1",
+  "active": 1,
+  "docstatus": 0,
+  "doctype": "Academic Level",
+  "modified": "2024-03-15 07:58:18.374220",
+  "name": 11
+ },
+ {
+  "academic_level": "Grade 12",
+  "academic_level_type": "1",
+  "active": 1,
+  "docstatus": 0,
+  "doctype": "Academic Level",
+  "modified": "2024-03-15 07:58:18.381989",
+  "name": 12
+ },
+ {
+  "academic_level": "First Year",
+  "academic_level_type": "4",
+  "active": 1,
+  "docstatus": 0,
+  "doctype": "Academic Level",
+  "modified": "2024-03-15 10:35:09.748193",
+  "name": 13
+ },
+ {
+  "academic_level": "Second Year",
+  "academic_level_type": "4",
+  "active": 1,
+  "docstatus": 0,
+  "doctype": "Academic Level",
+  "modified": "2024-03-15 10:35:53.064208",
+  "name": 14
+ },
+ {
+  "academic_level": "Third Year",
+  "academic_level_type": "4",
+  "active": 1,
+  "docstatus": 0,
+  "doctype": "Academic Level",
+  "modified": "2024-03-15 10:36:27.246466",
+  "name": 15
+ },
+ {
+  "academic_level": "Fourth Year",
+  "academic_level_type": "4",
+  "active": 1,
+  "docstatus": 0,
+  "doctype": "Academic Level",
+  "modified": "2024-03-15 10:36:18.093117",
+  "name": 16
+ }
+]

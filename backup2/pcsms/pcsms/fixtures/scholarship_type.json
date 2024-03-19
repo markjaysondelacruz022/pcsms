@@ -1,0 +1,26 @@
+[
+ {
+  "active": 1,
+  "docstatus": 0,
+  "doctype": "Scholarship Type",
+  "modified": "2024-03-11 16:14:46.479690",
+  "name": 1,
+  "scholarship": "Scholarship 1"
+ },
+ {
+  "active": 1,
+  "docstatus": 0,
+  "doctype": "Scholarship Type",
+  "modified": "2024-03-15 07:58:17.845777",
+  "name": 2,
+  "scholarship": "Scholarship 3"
+ },
+ {
+  "active": 1,
+  "docstatus": 0,
+  "doctype": "Scholarship Type",
+  "modified": "2024-03-15 07:58:17.864869",
+  "name": 3,
+  "scholarship": "Scholarship 2"
+ }
+]

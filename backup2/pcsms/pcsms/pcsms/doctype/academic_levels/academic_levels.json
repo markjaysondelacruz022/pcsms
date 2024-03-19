@@ -1,0 +1,32 @@
+{
+ "actions": [],
+ "allow_rename": 1,
+ "creation": "2024-03-19 08:23:47.044855",
+ "doctype": "DocType",
+ "editable_grid": 1,
+ "engine": "InnoDB",
+ "field_order": [
+  "academic_level"
+ ],
+ "fields": [
+  {
+   "fieldname": "academic_level",
+   "fieldtype": "Link",
+   "in_list_view": 1,
+   "label": "Academic Level",
+   "options": "Academic Level"
+  }
+ ],
+ "index_web_pages_for_search": 1,
+ "istable": 1,
+ "links": [],
+ "modified": "2024-03-19 08:23:47.044855",
+ "modified_by": "Administrator",
+ "module": "pcsms",
+ "name": "Academic Levels",
+ "owner": "Administrator",
+ "permissions": [],
+ "sort_field": "modified",
+ "sort_order": "DESC",
+ "states": []
+}

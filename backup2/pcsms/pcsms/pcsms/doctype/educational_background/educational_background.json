@@ -1,0 +1,54 @@
+{
+ "actions": [],
+ "autoname": "autoincrement",
+ "creation": "2024-03-18 16:00:36.527236",
+ "doctype": "DocType",
+ "editable_grid": 1,
+ "engine": "InnoDB",
+ "field_order": [
+  "academic_level_type",
+  "name_of_school",
+  "inclusive_years",
+  "honors_and_awards"
+ ],
+ "fields": [
+  {
+   "fieldname": "academic_level_type",
+   "fieldtype": "Link",
+   "in_list_view": 1,
+   "label": "Academic Level Type",
+   "options": "Academic Level Type"
+  },
+  {
+   "fieldname": "name_of_school",
+   "fieldtype": "Data",
+   "in_list_view": 1,
+   "label": "Name of School"
+  },
+  {
+   "fieldname": "inclusive_years",
+   "fieldtype": "Data",
+   "in_list_view": 1,
+   "label": "Inclusive Years"
+  },
+  {
+   "fieldname": "honors_and_awards",
+   "fieldtype": "Data",
+   "in_list_view": 1,
+   "label": "Honors and Awards"
+  }
+ ],
+ "index_web_pages_for_search": 1,
+ "istable": 1,
+ "links": [],
+ "modified": "2024-03-18 17:30:19.604787",
+ "modified_by": "Administrator",
+ "module": "pcsms",
+ "name": "Educational Background",
+ "naming_rule": "Autoincrement",
+ "owner": "Administrator",
+ "permissions": [],
+ "sort_field": "modified",
+ "sort_order": "DESC",
+ "states": []
+}

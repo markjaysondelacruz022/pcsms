@@ -1,0 +1,62 @@
+{
+ "actions": [],
+ "autoname": "autoincrement",
+ "creation": "2024-03-11 15:54:31.139128",
+ "default_view": "List",
+ "doctype": "DocType",
+ "editable_grid": 1,
+ "engine": "InnoDB",
+ "field_order": [
+  "type_name",
+  "has_courses",
+  "scholarship_renewal_count"
+ ],
+ "fields": [
+  {
+   "default": "0",
+   "fieldname": "has_courses",
+   "fieldtype": "Check",
+   "label": "Has Courses"
+  },
+  {
+   "fieldname": "type_name",
+   "fieldtype": "Data",
+   "in_list_view": 1,
+   "label": "Type",
+   "reqd": 1
+  },
+  {
+   "default": "1",
+   "fieldname": "scholarship_renewal_count",
+   "fieldtype": "Int",
+   "label": "Scholarship Renewal Count Per Year"
+  }
+ ],
+ "index_web_pages_for_search": 1,
+ "links": [],
+ "modified": "2024-03-18 14:00:36.099420",
+ "modified_by": "Administrator",
+ "module": "pcsms",
+ "name": "Academic Level Type",
+ "naming_rule": "Autoincrement",
+ "owner": "Administrator",
+ "permissions": [
+  {
+   "create": 1,
+   "delete": 1,
+   "email": 1,
+   "export": 1,
+   "print": 1,
+   "read": 1,
+   "report": 1,
+   "role": "System Manager",
+   "share": 1,
+   "write": 1
+  }
+ ],
+ "show_title_field_in_link": 1,
+ "sort_field": "modified",
+ "sort_order": "DESC",
+ "states": [],
+ "title_field": "type_name"
+}
